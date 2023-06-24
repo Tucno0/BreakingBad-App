@@ -32,8 +32,8 @@ export const BreakingBadApp = async (element) => {
   element.innerHTML = 'Loading...'
 
   const quoteLabel = document.createElement('blockquote');
-  const authorLabel = document.createElement('h3');
   const nextQuoteButton = document.createElement('button');
+  const authorLabel = document.createElement('h3');
 
   nextQuoteButton.innerText = 'Next quote';
   
