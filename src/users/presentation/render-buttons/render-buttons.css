@@ -1,0 +1,12 @@
+button {
+  margin: 10px;
+}
+
+#current-page {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  background-color: darkslategray;
+  color: white;
+}
